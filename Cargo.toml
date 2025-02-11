@@ -1,7 +1,7 @@
 [package]
 name = "img2ascii"
 version = "0.1.0"
-edition = "2025"
+edition = "2021"
 authors = ["final <julyfinal@outlook.com>"]
 description = "A tool to convert images to ASCII art"
 readme = "README.md"
